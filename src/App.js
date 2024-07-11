@@ -1,10 +1,8 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from "./components/Header/Header";
-import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import ProductDetail from "./pages/ProductDetails/ProductDetails";
-import CartPage from "./pages/CartPage/CartPage";
 import AboutPage from "./pages/AboutPage/AboutPage";
 import ContactPage from "./pages/ContactPage/ContactPage";
 import ShowPage from "./pages/ShowPage/ShowPage";
@@ -18,10 +16,6 @@ const App = () => {
 
   const addToCart = (product) => {
     setCartItems([...cartItems, product]);
-  };
-
-  const removeFromCart = (id) => {
-    setCartItems(cartItems.filter((item) => item.id !== id));
   };
 
   return (
@@ -42,7 +36,6 @@ const App = () => {
             <Route path="/show/product/:query" element={<ShowPage />} />
             <Route path="/productdetails/:id" element={<ProductDetails />} />
           </Routes>
-          {/* <Footer /> */}
         </div>
       </Router>
     </>

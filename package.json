@@ -15,7 +15,8 @@
     "react-fancy-circular-carousel": "^1.0.8",
     "react-router-dom": "^6.24.1",
     "react-scripts": "5.0.1",
-    "react-toastify": "^10.0.5"
+    "react-toastify": "^10.0.5",
+    "web-vitals": "^4.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -44,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }

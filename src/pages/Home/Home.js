@@ -3,15 +3,13 @@ import Slider from "../../components/Slider/Slider";
 import CategoryCard from "../../components/CategoryCard/CategoryCard";
 import { maincategories } from "../../data";
 import "./Home.css";
-import Bottom from "../../assets/images/Bottom.png";
-import { isMobile } from "react-device-detect";
 
 const Home = () => {
-  const categories = maincategories;
+  let categories = maincategories;
 
   useEffect(() => {
     console.log(categories);
-  }, []);
+  }, [categories]);
 
   return (
     <div className="container">

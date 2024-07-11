@@ -13,7 +13,7 @@ const Search = ({ data }) => {
     if (query) {
       navigate(`/show/product/${query}`);
       return;
-    } else if (query == "") {
+    } else if (query === "") {
       toast.info("please type anything to search", {
         position: "top-center",
       });
@@ -25,7 +25,7 @@ const Search = ({ data }) => {
       if (query) {
         navigate(`/show/product/${query}`);
         return;
-      } else if (query == "") {
+      } else if (query === "") {
         toast.info("please type anything to search", {
           position: "top-center",
         });
