@@ -1,0 +1,58 @@
+/* ContactPage.css */
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #f0f0f0;
+  }
+  
+  .contact-container {
+    padding: 40px;
+    max-width: 600px;
+    margin: 50px auto;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .contact-container h1 {
+    color: #333;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+  }
+  
+  .contact-container p {
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5em;
+  }
+  
+  .social-icons a {
+    color: #555;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #ff4081;
+  }
+  
+  .social-icons .twitter:hover {
+    color: #1da1f2;
+  }
+  
+  .social-icons .facebook:hover {
+    color: #3b5998;
+  }
+  
+  .social-icons .whatsapp:hover {
+    color: #25d366;
+  }
+  

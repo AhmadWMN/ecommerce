@@ -1,0 +1,44 @@
+  .about-container {
+    margin:10px;
+    padding: 40px;
+    max-width: 900px;
+    margin: 50px auto;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-container h1, .about-container h2 {
+    color: #393646;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .about-container h1 {
+    font-size: 2.5em;
+  }
+  
+  .about-container h2 {
+    font-size: 1.8em;
+    margin-top: 40px;
+  }
+  
+  .about-container p {
+    color: #393646;
+    line-height: 1.8;
+    text-align: justify;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .about-container img.about-image {
+    display: block;
+    margin: 30px auto;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  

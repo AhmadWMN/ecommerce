@@ -1,0 +1,47 @@
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 650px;
+  height: 650px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+
+
+@media (max-width: 599px) {
+  .carousel {
+    width: 325px;
+    height: 325px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow:visible;
+  }
+
+}
+
+@media (min-width: 600px) {
+  .carousel {
+    width: 650px;
+    height: 650px;
+   
+  
+  }
+}
+
+@media (min-width: 900px) {
+  .carousel {
+    width: 650px;
+    height: 650px;
+   
+  }
+}
+
+
+
+
+
+
+
