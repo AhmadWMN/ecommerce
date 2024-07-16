@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.1f820419.css",
+    "main.js": "/ecommerce/static/js/main.31719ddc.js",
+    "static/js/488.ab65f79c.chunk.js": "/ecommerce/static/js/488.ab65f79c.chunk.js",
+    "static/media/SilkRobe.jpg": "/ecommerce/static/media/SilkRobe.a65472641f6736240525.jpg",
+    "static/media/VneckSweater.webp": "/ecommerce/static/media/VneckSweater.bf63847f8066d8fba9ca.webp",
+    "static/media/SlimFitJeans.webp": "/ecommerce/static/media/SlimFitJeans.147e2873e8c4c25bf008.webp",
+    "static/media/QuiltedJacket.jpg": "/ecommerce/static/media/QuiltedJacket.9cf7c95a90596564dfa2.jpg",
+    "static/media/RunningShorts.jpg": "/ecommerce/static/media/RunningShorts.001511e9168657208594.jpg",
+    "static/media/KnitBeanie.jpg": "/ecommerce/static/media/KnitBeanie.c3f6aa9a396ae81422a7.jpg",
+    "static/media/WideLegPants.jpg": "/ecommerce/static/media/WideLegPants.4d1a07d352f9d2194b99.jpg",
+    "static/media/CottonTshirt.jpg": "/ecommerce/static/media/CottonTshirt.fcf6e7d6797319bac998.jpg",
+    "static/media/Canvas Sneakers.jpg": "/ecommerce/static/media/Canvas Sneakers.62f321cc51cafb1219da.jpg",
+    "static/media/LeatherJacket.webp": "/ecommerce/static/media/LeatherJacket.ef3e62fd35567f38a6e5.webp",
+    "static/media/SilkPajamas.jpg": "/ecommerce/static/media/SilkPajamas.0eb4cf298fd63e0dabe7.jpg",
+    "static/media/Peacoat.jpg": "/ecommerce/static/media/Peacoat.d3202c821e95e2e11a3a.jpg",
+    "static/media/CargoPants.webp": "/ecommerce/static/media/CargoPants.8dbb20edff66f7e4e928.webp",
+    "static/media/YogaLeggings.jpg": "/ecommerce/static/media/YogaLeggings.54ea340627ae34c625c8.jpg",
+    "static/media/HoodedSweatshirt.jpg": "/ecommerce/static/media/HoodedSweatshirt.0b3c777ea44a4a1ec85b.jpg",
+    "static/media/LeatherBelt.jpg": "/ecommerce/static/media/LeatherBelt.56e5430bc890d37d9a55.jpg",
+    "static/media/Accessories.png": "/ecommerce/static/media/Accessories.b88807fd3f0b1385fe90.png",
+    "static/media/FlannelPajamaSetavif.avif": "/ecommerce/static/media/FlannelPajamaSetavif.bcf162120e8a98478c56.avif",
+    "static/media/AboutImage.webp": "/ecommerce/static/media/AboutImage.5be0a9e7aec303ac590b.webp",
+    "static/media/Activewear.png": "/ecommerce/static/media/Activewear.442a1e2a8cfae26a5a8f.png",
+    "static/media/Bottom.png": "/ecommerce/static/media/Bottom.56aa6c162d9fb2d8987a.png",
+    "static/media/Sleepwear.png": "/ecommerce/static/media/Sleepwear.aaaa46127335da89b30c.png",
+    "static/media/StripedPolo.jpg": "/ecommerce/static/media/StripedPolo.0d627dc7ad56947ce6d5.jpg",
+    "static/media/Outwear.png": "/ecommerce/static/media/Outwear.acfe5353ccd959792713.png",
+    "static/media/GraphicTee.jpg": "/ecommerce/static/media/GraphicTee.68c0a0dd17225f13f3af.jpg",
+    "static/media/Ankle Bootsjpg.jpg": "/ecommerce/static/media/Ankle Bootsjpg.13407baa7eadf50e5833.jpg",
+    "index.html": "/ecommerce/index.html",
+    "main.1f820419.css.map": "/ecommerce/static/css/main.1f820419.css.map",
+    "main.31719ddc.js.map": "/ecommerce/static/js/main.31719ddc.js.map",
+    "488.ab65f79c.chunk.js.map": "/ecommerce/static/js/488.ab65f79c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f820419.css",
+    "static/js/main.31719ddc.js"
+  ]
+}
